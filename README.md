@@ -2,9 +2,7 @@
 callmeNoorulHuda/callmeNoorulHuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-It sounds like you’re sharing a personal introduction! Here’s a concise bio that you could use for GitHub, LinkedIn, or anywhere else:
 
----
 
 **Hi, I'm Noor-ul-Huda!**
 
@@ -20,4 +18,3 @@ It sounds like you’re sharing a personal introduction! Here’s a concise bio 
 
 ---
 
-Let me know if you want this as a `README.md` for your weather app repository, or if you’d like to tweak it!
