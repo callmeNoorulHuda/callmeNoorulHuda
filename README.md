@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Noor%20ul%20Huda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Agentic%20AI%20%26%20LLM%20Systems&descAlignY=58&descSize=17" width="100%"/>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+I'm+Noor+ul+Huda+👋;AI%2FML+Engineer+%26+Flutter+Developer;Building+Agentic+AI+%26+LLM+Systems" />
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+%2B+Flutter+Apps;LangChain+%7C+Voice+AI+%7C+RAG+Pipelines;6th+Semester+CS+Student+%40+PIEAS;Open+to+AI%2FML+Internship+Opportunities" alt="Typing SVG" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=header" width="100%"/>
 
 ![Location](https://img.shields.io/badge/Location-Rawalpindi%2C_Pakistan-00B4D8?style=flat-square&logo=googlemaps&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=callmeNoorulHuda&label=Profile%20Views&color=00b4d8&style=flat-square)
