@@ -130,10 +130,35 @@
 ## 🎓 Education
 
 **BS Computer Science** — Pakistan Institute of Engineering and Applied Sciences (PIEAS)
-*Sep 2023 – Present | CGPA: 3.75*
+*Sep 2023 – Present | 6th Semester | CGPA: 3.75*
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Open+to+AI%2FML+internships+and+collaborations!" />
-</h3>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmeNoorulHuda&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeNoorulHuda&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-noorulhuda33004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noorulhuda33004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noor_ul_Huda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-ul-huda19)
+[![GitHub](https://img.shields.io/badge/GitHub-callmeNoorulHuda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callmeNoorulHuda)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to AI/ML internships and collaborations — always building, always learning.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,18&section=footer" width="100%"/>
+
+</div>
