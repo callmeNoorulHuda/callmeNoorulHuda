@@ -1,21 +1,50 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+I'm+Noor+ul+Huda+👋;AI%2FML+Engineer+%26+Flutter+Developer;Building+Agentic+AI+%26+LLM+Systems" />
-</h1>
+<div align="center">
 
-<h3 align="center">Computer Science student building applied AI systems — from multi-agent research tools to voice AI automation</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Noor%20ul%20Huda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Agentic%20AI%20%26%20LLM%20Systems&descAlignY=58&descSize=17" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/noor-ul-huda19" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:noorulhuda33004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+%2B+Flutter+Apps;LangChain+%7C+Voice+AI+%7C+RAG+Pipelines;6th+Semester+CS+Student+%40+PIEAS;Open+to+AI%2FML+Internship+Opportunities" alt="Typing SVG" />
+
+<br/>
+
+![Location](https://img.shields.io/badge/Location-Rawalpindi%2C_Pakistan-00B4D8?style=flat-square&logo=googlemaps&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=callmeNoorulHuda&label=Profile%20Views&color=00b4d8&style=flat-square)
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-ul-huda19)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noorulhuda33004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-callmeNoorulHuda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callmeNoorulHuda)
+
+</div>
 
 ---
 
 ## 🚀 About Me
+
+```dart
+class NoorUlHuda extends AIEngineer {
+  final String role = "AI/ML Engineer & Flutter Developer";
+  final String education = "BS Computer Science @ PIEAS (6th Semester)";
+
+  final List<String> languages = ["Python", "Dart", "TypeScript", "SQL"];
+
+  final List<String> currentFocus = [
+    "Agentic AI & Multi-Agent Systems (LangChain, LangGraph, AutoGen)",
+    "Voice AI & Conversational Automation (Vapi, n8n)",
+    "Retrieval-Augmented Generation (RAG) pipelines",
+    "Cross-platform mobile apps with Flutter",
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return SpeechBubble(
+      text: "Thanks for stopping by — let's build something intelligent! 🚀",
+    );
+  }
+}
+
+void main() => runApp(NoorUlHuda());
+```
 
 - 🎓 3rd-year BS Computer Science student at **PIEAS** (Pakistan Institute of Engineering & Applied Sciences)
 - 🤖 Focused on **agentic AI, LLM-powered systems, and voice AI automation**
