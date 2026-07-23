@@ -18,6 +18,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="./assets/my.gif" width="320"/>
+</div>
 
 ## 🚀 About Me
 
@@ -51,11 +54,11 @@ void main() => runApp(NoorUlHuda());
 - 📱 Also build cross-platform mobile apps with **Flutter**
 - 🔭 Recent work: a voice AI leasing agent (Vapi + n8n + Supabase), a RAG document chatbot (LangChain + FAISS), and a FastAPI backend for automated SLA escalation
 - 🌱 Currently deepening my skills in multi-agent orchestration (LangGraph) and workflow automation
-
+<!--
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="320" style="transform: rotate(90deg);"/>
 </div>
-
+-->
 ---
 
 ## 🛠️ Tech Stack
@@ -188,13 +191,13 @@ void main() => runApp(NoorUlHuda());
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeNoorulHuda&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
-
+<!--
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/callmeNoorulHuda/callmeNoorulHuda/output/dist/github-contribution-grid-snake.svg" width="100%"/>
 </div>
-
+-->
 
 
 ## 🏙️ 3D Contribution Calendar
