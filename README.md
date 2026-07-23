@@ -52,9 +52,19 @@ void main() => runApp(NoorUlHuda());
 - 🔭 Recent work: a voice AI leasing agent (Vapi + n8n + Supabase), a RAG document chatbot (LangChain + FAISS), and a FastAPI backend for automated SLA escalation
 - 🌱 Currently deepening my skills in multi-agent orchestration (LangGraph) and workflow automation
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="320"/>
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,fastapi,react,ts,tensorflow,pytorch,mysql,firebase,git,githubactions" />
+</div>
+
+<br/>
 
 **Languages**
 <p>
@@ -110,6 +120,12 @@ void main() => runApp(NoorUlHuda());
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
 
 ---
 
@@ -175,6 +191,14 @@ void main() => runApp(NoorUlHuda());
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/callmeNoorulHuda/callmeNoorulHuda/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+
+
+## 🏙️ 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/callmeNoorulHuda/callmeNoorulHuda/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 
