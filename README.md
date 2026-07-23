@@ -53,7 +53,7 @@ void main() => runApp(NoorUlHuda());
 - 🌱 Currently deepening my skills in multi-agent orchestration (LangGraph) and workflow automation
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="320"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="320" style="transform: rotate(90deg);"/>
 </div>
 
 ---
@@ -123,6 +123,8 @@ void main() => runApp(NoorUlHuda());
 
 <br/>
 
+### 💬 Quote of the Day
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
@@ -190,7 +192,7 @@ void main() => runApp(NoorUlHuda());
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/callmeNoorulHuda/callmeNoorulHuda/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/callmeNoorulHuda/callmeNoorulHuda/output/dist/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 
@@ -198,7 +200,7 @@ void main() => runApp(NoorUlHuda());
 ## 🏙️ 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/callmeNoorulHuda/callmeNoorulHuda/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/callmeNoorulHuda/callmeNoorulHuda/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 
