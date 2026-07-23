@@ -191,21 +191,21 @@ void main() => runApp(NoorUlHuda());
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeNoorulHuda&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
-<!--
+
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/callmeNoorulHuda/callmeNoorulHuda/output/dist/github-contribution-grid-snake.svg" width="100%"/>
 </div>
--->
 
 
+<!--
 ## 🏙️ 3D Contribution Calendar
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/callmeNoorulHuda/callmeNoorulHuda/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
-
+-->
 
 ---
 
