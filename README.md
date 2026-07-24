@@ -187,7 +187,7 @@ void main() => runApp(NoorUlHuda());
 ## 📊 GitHub Analytics
 
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmeNoorulHuda&theme=tokyonight&hide_border=true" width="48%"/> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmeNoorulHuda&theme=tokyonight&hide_border=true&cache=false" width="48%"/> 
 </div>
 
 
