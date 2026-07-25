@@ -6,7 +6,7 @@
 </h1>
 
 ![Location](https://img.shields.io/badge/Location-Rawalpindi%2C_Pakistan-00B4D8?style=flat-square&logo=googlemaps&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=callmeNoorulHuda&label=Profile%20Views&color=00b4d8&style=flat-square&v=1)
+![Profile Views](https://komarev.com/ghpvc/?username=callmeNoorulHuda&label=Profile%20Views&color=00b4d8&style=flat-square&v=2)
 
 <br/><br/>
 
