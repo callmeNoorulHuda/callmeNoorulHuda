@@ -182,13 +182,13 @@ void main() => runApp(NoorUlHuda());
 *Sep 2023 – Present | 6th Semester | CGPA: 3.75*
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmeNoorulHuda&theme=tokyonight&hide_border=true&cache=false" width="48%"/> 
 </div>
-
+-->
 
 ## 🐍 Contribution Snake
 
